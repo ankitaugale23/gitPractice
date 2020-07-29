@@ -1,0 +1,1 @@
+this is a first file and it contains the initial information about all the git practice we are going to do.
